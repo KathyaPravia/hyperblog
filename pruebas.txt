@@ -2,3 +2,5 @@ Esta es la primera practica usando Code
 hoy 13 de junio de 2019.
 
 Este es el curso de Platzi de git y github
+
+Javier clonó este proyecto tan bonito
