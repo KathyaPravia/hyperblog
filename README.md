@@ -3,5 +3,7 @@
 *Estoy aprendiendo en** Platzi**
 Creado por Towerbank team
 
+Incluye ejemplos en Windows, linux y mac
+
 En la ruta frontend  y estoy realizando mi primer
 proyecto en Platzi, para aprender a usar git y github.
